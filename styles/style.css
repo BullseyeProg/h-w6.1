@@ -1,0 +1,23 @@
+table {
+    height: 500px;
+    width: 700px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+td, th {
+    border: 1px solid black;
+    padding: 20px;
+}
+.row-2-and-3 {
+    height: 100px;
+  }
+.row-7 {
+    width: 10px
+}
+.row-1 {
+    width: 30px
+}
+.col-row-1 {
+
+}
