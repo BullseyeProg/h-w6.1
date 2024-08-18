@@ -1,6 +1,6 @@
 table {
     height: 500px;
-    width: 700px;
+    width: 600px;
     border: 1px solid black;
     border-collapse: collapse;
     box-sizing: border-box;
@@ -17,7 +17,4 @@ td, th {
 }
 .row-1 {
     width: 30px
-}
-.col-row-1 {
-
 }
